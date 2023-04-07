@@ -1,0 +1,7 @@
+.filterClass{
+    --lwc-colorTextIconDefault: yellow;
+}
+.iconColourClass{
+    --sds-c-icon-color-foreground-default: white;
+    --sds-c-icon-color-background: #3279A0;
+}
